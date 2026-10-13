@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif"><rect width="1200" height="750" fill="#ffffff"/>
+    <rect x="50" y="50" width="1100" height="650" rx="24" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+    <line x1="50" x2="1150" y1="122" y2="122" stroke="#e3e5ea" stroke-width="2"/>
+    <circle cx="96" cy="86" r="14" fill="#a3460a"/><text x="124" y="95" font-size="26" fill="#15171c" font-weight="700">SOOM Atelier</text><text x="1110" y="95" font-size="21" fill="#676b74" text-anchor="end">24 F/W 컬렉션 · 원단 재고</text>
+    <text x="96" y="178" font-size="22" fill="#676b74" font-weight="600">남은 원단</text>
+    <rect x="90" y="205" width="470" height="88" rx="14" fill="#f4f5f7"/><rect x="114" y="231" width="36" height="36" rx="8" fill="#3b3d42"/><text x="168" y="258" font-size="22" fill="#15171c">울 개버딘 · 차콜</text><text x="536" y="258" font-size="21" fill="#676b74" text-anchor="end">12m</text>
+    <rect x="90" y="317" width="470" height="88" rx="14" fill="#f4f5f7"/><rect x="114" y="343" width="36" height="36" rx="8" fill="#efe8da" stroke="#d6cdbb" stroke-width="2"/><text x="168" y="370" font-size="22" fill="#15171c">리넨 · 아이보리</text><text x="536" y="370" font-size="21" fill="#676b74" text-anchor="end">8m</text>
+    <rect x="90" y="429" width="470" height="88" rx="14" fill="#f4f5f7"/><rect x="114" y="455" width="36" height="36" rx="8" fill="#2f3e66"/><text x="168" y="482" font-size="22" fill="#15171c">데님 · 인디고</text><text x="536" y="482" font-size="21" fill="#676b74" text-anchor="end">15m</text>
+    <rect x="90" y="541" width="470" height="88" rx="14" fill="#f4f5f7"/><rect x="114" y="567" width="36" height="36" rx="8" fill="#6e1f2c"/><text x="168" y="594" font-size="22" fill="#15171c">실크 · 버건디</text><text x="536" y="594" font-size="21" fill="#676b74" text-anchor="end">5m</text>
+    <path d="M 590 420 L 640 420" stroke="#a3460a" stroke-width="4" stroke-linecap="round"/><path d="M 628 406 L 644 420 L 628 434" fill="none" stroke="#a3460a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="676" y="178" font-size="22" fill="#a3460a" font-weight="700">이번 시즌에 지은 옷 4</text>
+    <rect x="670" y="205" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="234" width="28" height="28" rx="7" fill="#3b3d42"/>
+      <text x="740" y="258" font-size="23" fill="#15171c" font-weight="600">패치워크 트렌치 코트</text><text x="1086" y="258" font-size="19" fill="#676b74" text-anchor="end">Look 03</text><rect x="670" y="317" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="346" width="28" height="28" rx="7" fill="#efe8da" stroke="#d6cdbb" stroke-width="2"/>
+      <text x="740" y="370" font-size="23" fill="#15171c" font-weight="600">리넨 셔츠 드레스</text><text x="1086" y="370" font-size="19" fill="#676b74" text-anchor="end">Look 07</text><rect x="670" y="429" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="458" width="28" height="28" rx="7" fill="#2f3e66"/>
+      <text x="740" y="482" font-size="23" fill="#15171c" font-weight="600">데님 와이드 팬츠</text><text x="1086" y="482" font-size="19" fill="#676b74" text-anchor="end">Look 11</text><rect x="670" y="541" width="440" height="88" rx="14" fill="#ffffff" stroke="#e3e5ea" stroke-width="2"/>
+      <rect x="694" y="570" width="28" height="28" rx="7" fill="#6e1f2c"/>
+      <text x="740" y="594" font-size="23" fill="#15171c" font-weight="600">실크 스카프 블라우스</text><text x="1086" y="594" font-size="19" fill="#676b74" text-anchor="end">Look 14</text></svg>

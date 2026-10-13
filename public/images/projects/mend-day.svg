@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif"><rect width="1200" height="750" fill="#15171c"/>
+    <circle cx="930" cy="240" r="150" fill="#a3460a" fill-opacity="0.9"/>
+    <circle cx="930" cy="240" r="210" fill="none" stroke="#a3460a" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="930" cy="240" r="270" fill="none" stroke="#a3460a" stroke-opacity="0.18" stroke-width="2"/>
+    <circle cx="892" cy="202" r="17" fill="#15171c"/><circle cx="968" cy="202" r="17" fill="#15171c"/><circle cx="892" cy="278" r="17" fill="#15171c"/><circle cx="968" cy="278" r="17" fill="#15171c"/>
+    <path d="M 892 202 L 968 278 M 968 202 L 892 278" stroke="#f6dcc0" stroke-width="7" stroke-linecap="round"/>
+    <text x="80" y="150" font-size="30" fill="#a3460a" font-weight="700">MEND DAY</text>
+    <text x="80" y="270" font-size="120" fill="#ffffff" font-weight="800">#18</text>
+    <text x="80" y="380" font-size="64" fill="#ffffff" font-weight="800">버리기 전에,</text>
+    <text x="80" y="460" font-size="64" fill="#ffffff" font-weight="800">한 번 더 고쳐 입기</text>
+    <line x1="80" x2="1120" y1="560" y2="560" stroke="#3a3d45" stroke-width="2"/>
+    <text x="80" y="620" font-size="26" fill="#c9ccd3">토요일 오후 2시 · 성수 아틀리에 · 참가자 30명</text>
+    <text x="1120" y="620" font-size="22" fill="#8d919a" text-anchor="end">가상 예시</text></svg>

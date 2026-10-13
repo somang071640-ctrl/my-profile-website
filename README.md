@@ -3,6 +3,8 @@
 실습용 **가상 인물** 서하린(SOOM Atelier 대표 디자이너)의 개인 프로필 웹사이트입니다.
 HTML·CSS·JavaScript만 사용한 정적 사이트이며, React·Next.js·Express는 사용하지 않습니다.
 
+- 배포 주소: https://my-profile-website-one.vercel.app
+
 ## 구성
 
 | 영역 | 내용 |
